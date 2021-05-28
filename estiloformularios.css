@@ -1,0 +1,21 @@
+body {
+	background-color: HotPink;
+	
+    }
+
+ h1{
+    font-family:"Arial";
+    color:rgb(85,25,77);
+    font-size:27px;
+  }
+   h2{
+   	font-family:"Rockwell";
+  	color:rgb(255,215,0);
+    font-size:20px;
+  
+}
+    h3{
+   font-family:"Verdana";
+  	color:#800080;
+    font-size:25px;
+    }
